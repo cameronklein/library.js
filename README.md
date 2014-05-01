@@ -1,0 +1,4 @@
+library.js
+==========
+
+Library Model
