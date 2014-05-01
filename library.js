@@ -61,8 +61,6 @@ function Shelf(section){
 function Book(title){
     
     this.title = title;
-    this.currentShelf;
-    
     
     this.enshelf = function(shelf){
         shelf.addBook(this);
